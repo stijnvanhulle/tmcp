@@ -9,6 +9,7 @@
 		"generate:types": "dts-buddy && publint",
 		"prepublish": "pnpm generate:types"
 	},
+	"license": "MIT",
 	"exports": {
 		".": {
 			"types": "./src/types/index.d.ts",
