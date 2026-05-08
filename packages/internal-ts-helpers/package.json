@@ -10,7 +10,7 @@
 	},
 	"keywords": [],
 	"author": "",
-	"license": "MIT",
+	"license": "ISC",
 	"packageManager": "pnpm@10.27.0",
 	"type": "module",
 	"devDependencies": {
