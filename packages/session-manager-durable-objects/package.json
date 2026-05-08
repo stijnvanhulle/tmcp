@@ -38,5 +38,6 @@
 		"@cloudflare/workers-types": "^4.20241218.0",
 		"dts-buddy": "^0.6.2",
 		"publint": "^0.3.12"
-	}
+	},
+	"license": "MIT"
 }

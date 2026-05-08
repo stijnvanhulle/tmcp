@@ -50,5 +50,6 @@
 	},
 	"dependencies": {
 		"json-rpc-2.0": "^1.7.1"
-	}
+	},
+	"license": "MIT"
 }

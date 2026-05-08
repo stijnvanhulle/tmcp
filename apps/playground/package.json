@@ -23,5 +23,6 @@
 		"@modelcontextprotocol/inspector": "^0.18.0",
 		"@types/node": "^24.8.1",
 		"typescript": "^5.8.3"
-	}
+	},
+	"license": "MIT"
 }
